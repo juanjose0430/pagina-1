@@ -1,0 +1,28 @@
+
+
+.tittle{
+    text-align: center;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+
+.description{
+    text-align: center;
+    font-size: 15px;
+    font-weight: lighter;
+}
+
+.card{
+    display:inline-block;
+    align-items: center;
+    justify-content: space-between;}
+
+.tarifas{
+    margin: 40px;
+}
+
+.miSeccionPersonalizada{
+    margin:40px;
+    border: 1px solid red;
+}
