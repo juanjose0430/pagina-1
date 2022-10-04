@@ -1,0 +1,106 @@
+
+
+.ima-porta{
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+
+}
+
+
+.texto{
+    font-size: 20px;
+    text-align: justify;
+    margin-top: 7px;
+    margin-right: 85px;
+    margin-left: 75px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-style:solid; color:#FB5022;
+    border-radius: 25px;
+
+}
+
+.infor {
+    background-color: rgb(194, 194, 182);
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+}
+
+.tit {
+    color: #e96440;
+    text-align: center;
+}
+
+.resumen {
+    font-size: 20px;
+    text-align: justify;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 60px;
+    padding-left: 12px;
+    color: rgb(182, 90, 50);   
+}
+
+.barra {
+    background-color: rgb(222, 128, 82);
+    padding: 5px;
+}
+
+.profesional{
+
+    font-size: 20px;
+    text-align: justify;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 120px;
+    color: rgb(108, 105, 105)
+
+}
+
+.historia {
+
+    display: flex;
+    
+}
+
+.vision {
+    font-size: 20px;
+    text-align: justify;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 90px;
+    color: rgb(60, 61, 61);
+
+
+}
+
+.mision {
+
+    font-size: 20px;
+    text-align: justify;
+    width: 40%;
+    margin-top: 15px;
+    margin-left: 30px;
+    
+
+}
+
+.valores {
+    font-size:20px;
+    text-align:justify;
+    width:40%;
+    margin-top: 15px;
+    margin-left:80px;
+    margin-right:30px;
+    
+
+}
+
+section {
+
+    display: flex;
+    justify-content: space-evenly;
+    
+}
